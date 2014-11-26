@@ -1,0 +1,7 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.img-responsive {
+	width: 50%;
+	height: auto;
+}
